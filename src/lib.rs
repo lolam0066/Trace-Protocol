@@ -1,5 +1,4 @@
 pub mod regev;
-pub mod fft;
 pub mod poly;
 pub mod secret_sharing;
 pub mod matrix;
